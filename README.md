@@ -1,2 +1,2 @@
 # starsage
-A project to uncover gems of wisdom from civilizations of past regarding space.
+A project to uncover gems of wisdom in astronomy from civilizations of past.
